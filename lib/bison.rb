@@ -1,0 +1,2 @@
+class Bison < Herbivore
+end

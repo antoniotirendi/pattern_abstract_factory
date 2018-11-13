@@ -1,0 +1,2 @@
+class Gnu < Herbivore
+end
